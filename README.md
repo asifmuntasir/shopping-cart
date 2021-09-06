@@ -1,0 +1,1 @@
+It is a simple JavaScript DOM project name as 'Shopping Cart'. In here, you can delete item and update your product quantity also.
